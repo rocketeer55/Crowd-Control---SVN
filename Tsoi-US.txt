@@ -1,0 +1,4 @@
+1.	As a social player, I want access to a leaderboard, so that I may compete with my friends and compare scores. 
+2.	As a fast learning player, I want at least 3 working levels, so that I can have longer enjoyment and play time. 
+3.	As an engaged player, I want a storyline, so that I may be immersed in the game and have attachment to the game and its characters. 
+
