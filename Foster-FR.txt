@@ -1,0 +1,3 @@
+1. The system shall allow the user to pause the game with a single button press.
+2. The system shall produce game events in sync with the music's downbeats.
+3. The system shall display the user's current score during a level as plain text
