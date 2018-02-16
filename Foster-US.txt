@@ -1,0 +1,7 @@
+1. As a music enthusiast, I want a varied soundtrack, so that I am consistently entertained.
+
+2. As a veteran video game player, I want responsive controls, so that I am limited only by my skill
+level when attempting difficult challenges.
+
+3. As a college student, I want short periods of continuous gameplay, so that I can play in my spare
+time.
